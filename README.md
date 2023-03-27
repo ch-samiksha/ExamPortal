@@ -70,7 +70,7 @@ Exam portal application developed for performing Admin and user role operations 
 
 
 ```bash
- git clone https://github.com/ShreyaRamtirth/EcommerceJwellery.git 
+ https://github.com/ch-samiksha/ExamPortal.git 
 ```
 
 ### :running: Run Locally
