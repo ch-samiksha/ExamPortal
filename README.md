@@ -78,7 +78,7 @@ Exam portal application developed for performing Admin and user role operations 
 Install necessary packages with npm
 
 ```bash
-  cd "Shopping Front end"
+  cd "ExamPortal Front end"
   npm install
 ```
 
